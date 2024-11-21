@@ -1,4 +1,5 @@
 #include<iostream>
+#include<string>
 using namespace std;
 
 bool win_game_row(char arr[3][3]){
